@@ -1,8 +1,8 @@
 # UNIVERSIDAD AUTÓNOMA DE MADRID
 # SEGAINVEX-ELECTRÓNICA
 # DESCRIPCIÓN
-## Software para controlar la Base del microscópio SPM con una tablet de 7" y 1024X600 pixeles de resolución
-### Desarrollo de SEGAINVEX-ELECTRÓNICA para el [Departamento de Física de la Materia Condensada de la UAM](https://www.nanoforces.es/)
+## Software para controlar la base del microscópio SPM con una tablet de 7" y 1024X600 pixeles de resolución
+### Desarrollo de [SEGAINVEX-ELECTRÓNICA](https://www.uam.es/uam/segainvex) para el [Departamento de Física de la Materia Condensada de la UAM](https://www.nanoforces.es/)
 ### Desarrollado por [Patricio Coronado Collado, ingeniero de telecomunicaciones](http://pacoco.ddns.net/)
 ### Marzo 2021
 # Proyectos relacionados:
