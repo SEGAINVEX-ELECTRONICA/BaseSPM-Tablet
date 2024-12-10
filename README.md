@@ -20,4 +20,4 @@
 ![base](https://github.com/SEGAINVEX-ELECTRONICA/BaseSPM-Tablet/blob/main/imagenes/imagen1A.png "control de motores Z")
 ![cabeza](https://github.com/SEGAINVEX-ELECTRONICA/BaseSPM-Tablet/blob/main/imagenes/imagen2B.png "control de motores de la cabeza")
 
-
+###### publicado desde "D:\Proyectos\AndroidStudioProyects\Base-SPM-tablet"
